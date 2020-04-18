@@ -1,0 +1,16 @@
+
+
+/index.html
+    |- /lib/js/jquery.js
+    |- /lib/js/history.js
+    |- /lib/js/web.min.js
+/lib/js/web.min.js
+    |- /public/main.html
+    |- /public/login.html
+    |- /public/register.html
+    |
+    |- /private/cliente/
+        |- /private/cliente/dashboard.html
+    |    
+    |- /private/admin/
+        |- /private/admin/dashboard.html
